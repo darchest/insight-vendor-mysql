@@ -3,5 +3,3 @@ plugins {
 }
 rootProject.name = "insight-vendor-mysql"
 
-include(":insight")
-project(":insight").projectDir = file("../insight")
